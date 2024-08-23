@@ -19,9 +19,7 @@ My favorite things about CS 193:
 - Lecture Instructors are close in age, relatable
 - The class provides interesting information in a low stress environment
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
